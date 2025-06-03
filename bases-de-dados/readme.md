@@ -8,5 +8,5 @@ Nosso objetivo é facilitar o acesso às fontes de dados que sustentam nossas pu
 
 | Nome do conjunto de dados | Fonte original | Período de cobertura | Formato(s) | Utilização em reportagem | Link direto |
 |---------------------------|----------------|-----------------------|------------|---------------------------|-------------|
-| Exemplo: Preços médios supermercados (Procon) | Procon Fortaleza | Jan–Mai 2025 | CSV | ["Preço comparado"](https://mais.opovo.com.br/reportagens-especiais/preco-comparado-supermercados/2025/05/21/preco-comparado-valor-medio-nos-supermercados-salta-ate-93-nos-itens-acima-da-inflacao.html) | [Link](./precos-supermercados-2025.csv) |
+| Preços médios supermercados (Procon) | Procon Fortaleza para o OP+ | Jan–Mai 2025 | CSV | ["Preço comparado"](https://mais.opovo.com.br/reportagens-especiais/preco-comparado-supermercados/2025/05/21/preco-comparado-valor-medio-nos-supermercados-salta-ate-93-nos-itens-acima-da-inflacao.html) | Em Breve|
 
