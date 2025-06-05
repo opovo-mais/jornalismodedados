@@ -8,5 +8,5 @@ Cada conjunto inclui documentação metodológica básica e metadados essenciais
 
 | Nome do levantamento | Tipo (Original / LAI) | Fonte / Órgão relacionado | Período de cobertura | Formato(s) | Utilização em reportagem | Link direto |
 |----------------------|------------------------|--------------------|-----------------------|------------|---------------------------|-------------|
-| Ocupações irregulares no Parque do Cocó | Original | SEMACE / Central OP+ | 2023–2025 | GeoJSON, CSV | ["Vivíamos no esgoto"](https://mais.opovo.com.br/reportagens-especiais/rio-coco-parque-do-coco-tensoes/2025/05/26/viviamos-no-esgoto-invasoes-no-parque-do-coco-expoem-problemas-de-habitacao-em-fortaleza.html) | Em breve|
+| Ocupações irregulares no Parque do Cocó | Original | SEMACE / Central OP+ | 2023–2025 | GeoJSON, CSV | ["Vivíamos no esgoto"](https://mais.opovo.com.br/reportagens-especiais/rio-coco-parque-do-coco-tensoes/2025/05/26/viviamos-no-esgoto-invasoes-no-parque-do-coco-expoem-problemas-de-habitacao-em-fortaleza.html) | ["Unidades de Conservação Estaduais"](https://www.sema.ce.gov.br/cadastro-estadual-de-unidade-de-conservacao-ceuc/painel-cadastro-estadual-de-unidades-de-conservacao/downloads-de-decretos-e-poligonais-ceuc/unidades-de-conservacao-estaduais/)|
 
