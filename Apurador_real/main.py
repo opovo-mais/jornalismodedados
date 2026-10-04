@@ -1,6 +1,6 @@
 import asyncio
 import logging
-from config import SIMULADO_CONFIG
+from config import OFICIAL_CONFIG
 from monitor import TSEMonitor
 
 # Configuração Padrão de Log
@@ -15,7 +15,7 @@ async def main():
     logger.info("=== INICIANDO PIPELINE EM TEMPO REAL: ELEIÇÕES GERAIS TSE 2026 ===")
     
     # Inicializando com ambiente simulado (segurança para testes)
-    monitor = TSEMonitor(config=SIMULADO_CONFIG)
+    monitor = TSEMonitor(config=OFICIAL_CONFIG)
     
     try:
         # Mantém a aplicação rodando assincronamente orquestrando as 3 camadas
